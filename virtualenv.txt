@@ -1,3 +1,8 @@
 how to create virtualenv
 
 python3 -m venv virtualenv
+
+
+#this is to create directory
+
+mkdir test
