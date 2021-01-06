@@ -1,0 +1,2 @@
+This is how you can activate virtualenv
+source virtualenv/bin/activate
