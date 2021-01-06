@@ -1,3 +1,7 @@
-how to create virtualenv
+#how to create virtualenv
 
 python3 -m venv virtualenv
+
+#to run server
+
+python3 manage.py runserver
